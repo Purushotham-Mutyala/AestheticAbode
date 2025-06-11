@@ -171,6 +171,9 @@ h1, h2, h3, h4, h5, h6 {
     min-height: 100vh;
     padding: 100px 0 50px;
     background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    background-image: url('https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg');
+    background-size: cover;
+    background-position: center;
 }
 
 .hero-content {
