@@ -28,9 +28,6 @@ AestheticAbode is a premium interior design solution that transforms spaces into
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ## 📸 Screenshots
 
@@ -39,17 +36,6 @@ AestheticAbode is a premium interior design solution that transforms spaces into
   <img src="https://via.placeholder.com/300x200/9a7b4f/FFFFFF?text=Design+Gallery" width="30%" alt="Design Gallery">
   <img src="https://via.placeholder.com/300x200/9a7b4f/FFFFFF?text=3D+Planner" width="30%" alt="3D Planner">
 </div>
-
-*(Replace placeholder images with actual screenshots)*
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm (v6 or higher)
-
-### Installation
 
 1. Clone the repository
    ```bash
