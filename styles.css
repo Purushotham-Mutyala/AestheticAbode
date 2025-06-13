@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Buttons */
 .btn {
-    display: inline-block;
+    display: block;
     padding: 12px 30px;
     border: none;
     border-radius: 50px;
