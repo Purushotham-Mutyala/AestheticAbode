@@ -31,11 +31,7 @@ AestheticAbode is a premium interior design solution that transforms spaces into
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="https://via.placeholder.com/300x200/9a7b4f/FFFFFF?text=Home+Page" width="30%" alt="Home Page">
-  <img src="https://via.placeholder.com/300x200/9a7b4f/FFFFFF?text=Design+Gallery" width="30%" alt="Design Gallery">
-  <img src="https://via.placeholder.com/300x200/9a7b4f/FFFFFF?text=3D+Planner" width="30%" alt="3D Planner">
-</div>
+
 
 1. Clone the repository
    ```bash
