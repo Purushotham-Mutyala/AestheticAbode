@@ -2,7 +2,7 @@
 
 ✨ **Beautiful spaces designed with passion** ✨
 
-![Project Banner](https://via.placeholder.com/1200x400/9a7b4f/FFFFFF?text=AestheticAbode+Interior+Design) *(Replace with your actual banner image)*
+
 
 ## 🌟 About The Project
 
